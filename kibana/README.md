@@ -14,6 +14,8 @@ WARNING:
 
 -->
 
+**Note:** this is the "per-architecture" repository for the `amd64` builds of [the `kibana` official image](https://hub.docker.com/_/kibana) -- for more information, see ["Architectures other than amd64?" in the official images documentation](https://github.com/docker-library/official-images#architectures-other-than-amd64) and ["An image's source changed in Git, now what?" in the official images FAQ](https://github.com/docker-library/faq#an-images-source-changed-in-git-now-what).
+
 # Quick reference
 
 -	**Maintained by**:  
@@ -26,6 +28,8 @@ WARNING:
 
 -	[`7.16.1`](https://github.com/docker-library/kibana/blob/d486bc8c105a77c7c20f875c9bdb1b7cb94ee70d/7/Dockerfile)
 -	[`6.8.21`](https://github.com/docker-library/kibana/blob/ea60dea9cd2eae42bf1710d7f3ab790f01693029/6/Dockerfile)
+
+[![amd64/kibana build status badge](https://img.shields.io/jenkins/s/https/doi-janky.infosiftr.net/job/multiarch/job/amd64/job/kibana.svg?label=amd64/kibana%20%20build%20job)](https://doi-janky.infosiftr.net/job/multiarch/job/amd64/job/kibana/)
 
 # Quick reference (cont.)
 
